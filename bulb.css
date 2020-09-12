@@ -2,21 +2,27 @@ body {
   background-color: #000;
 }
 .container {
-  text-align: center;
+   text-align: center;
 }
 
+.block {
+  display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
 input {
-  text-align: center;
+  
   cursor: pointer;
   font-size: 22px;
-  
 }
-.block {
-  text-align: center;
+.div1 {
+  margin-right: 15px;
+  float: left;
 }
-.turnOn {
-  margin-right: 10px;
-}
-.turnOff {
-  margin-left: 10px;
+.div2 {
+  margin-left: 15px;
+
+  float: left;
 }

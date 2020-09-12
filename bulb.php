@@ -12,7 +12,8 @@
   </div>
   <div class = "block">
     <form>
-     <div><input type="button" class = "turnOn"  value="ВКЛ">
+     <div class = "div1"><input type="button" class = "turnOn"  value="ВКЛ"></div>
+     <div class = "div2">
      <input type="button" class = "turnOff" value="ВЫКЛ"></div>
      
     </form>
