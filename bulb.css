@@ -1,0 +1,22 @@
+body {
+  background-color: #000;
+}
+.container {
+  text-align: center;
+}
+
+input {
+  text-align: center;
+  cursor: pointer;
+  font-size: 22px;
+  
+}
+.block {
+  text-align: center;
+}
+.turnOn {
+  margin-right: 10px;
+}
+.turnOff {
+  margin-left: 10px;
+}
